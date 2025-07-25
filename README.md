@@ -35,4 +35,4 @@ Dummy API : [https://dummyjson.com/todos](https://dummyjson.com/todos)
 
 ##  Live Demo
 
-[ View on Netlify](https://your-app-name.netlify.app)
+[ View on Netlify](https://todo-bootstrap-app.netlify.app/)
